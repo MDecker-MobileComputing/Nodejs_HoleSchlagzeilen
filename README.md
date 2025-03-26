@@ -3,7 +3,7 @@
 <br>
 
 In diesem Repo befindet sich ein einfaches Nodejs-Programm mit [Axios](https://www.npmjs.com/package/axios),
-das als Übungsaufgabe so vervollständigt werden soll, dass es von einer REST-API 5 Inlands-Schlagzeilen
+das als Übungsaufgabe so vervollständigt werden soll, dass es von einer REST-API fünf Inlands-Schlagzeilen
 abruft und auf der Konsole ausgibt.
 
 <br>
